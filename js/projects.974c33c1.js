@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["projects"],{acca:function(e,t,s){"use strict";s.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},n=[function(){var e=this,t=e.$createElement,s=e._self._c||t;return s("div",{staticClass:"projects"},[s("h1",[e._v("This is my projects page")])])}],r=s("2877"),a={},i=Object(r["a"])(a,c,n,!1,null,null,null);i.options.__file="Projects.vue";t["default"]=i.exports}}]);
+//# sourceMappingURL=projects.974c33c1.js.map

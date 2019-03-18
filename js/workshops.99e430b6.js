@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["workshops"],{ad56:function(s,e,t){"use strict";t.r(e);var n=function(){var s=this,e=s.$createElement;s._self._c;return s._m(0)},o=[function(){var s=this,e=s.$createElement,t=s._self._c||e;return t("div",{staticClass:"workshops"},[t("h1",[s._v("This is my workshops page")])])}],r=t("2877"),i={},a=Object(r["a"])(i,n,o,!1,null,null,null);a.options.__file="Workshops.vue";e["default"]=a.exports}}]);
+//# sourceMappingURL=workshops.99e430b6.js.map

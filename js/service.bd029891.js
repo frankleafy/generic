@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["service"],{e2f8:function(e,s,t){"use strict";t.r(s);var i=function(){var e=this,s=e.$createElement;e._self._c;return e._m(0)},n=[function(){var e=this,s=e.$createElement,t=e._self._c||s;return t("div",{staticClass:"service"},[t("h1",[e._v("This is my service page")])])}],c=t("2877"),r={},l=Object(c["a"])(r,i,n,!1,null,null,null);l.options.__file="Service.vue";s["default"]=l.exports}}]);
+//# sourceMappingURL=service.bd029891.js.map

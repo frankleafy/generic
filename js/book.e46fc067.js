@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["book"],{"8bf3":function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"book"},[n("h1",[e._v("This is my bookzzzz page")])])}],i=n("2877"),l={},a=Object(i["a"])(l,o,s,!1,null,null,null);a.options.__file="Book.vue";t["default"]=a.exports}}]);
+//# sourceMappingURL=book.e46fc067.js.map
